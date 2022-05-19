@@ -18,4 +18,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matthxc&show_icons=true&locale=en&layout=compact" alt="matthxc" /></p>
 
 ### Take a look at my React Next.js Starter Kit
+It's an amazing starter point if you are planning to create a Next.js project
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matthxc&repo=next-react-boilerplate&show_owner=true)](https://github.com/matthxc/next-react-boilerplate)
+
+### Looking for some good resources about Web Performance? 
+I've prepared some slides about why performance is so important and a lot of tips and tricks that might  be helpful for you:
+- https://slides.com/matthxc/web-performance
